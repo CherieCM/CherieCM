@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CherieCM
 - 👀 I’m interested in FullStack Software Development
-- 🌱 I’m currently studying in a Full Stack intensive course at FooCoding.
+- 🌱 FooCoding intensive Full-Stack program graduate.
 - 💞️ I’m looking to collaborate on projects in Frontend Development.
 - 📫 How to reach me: cheriecmalone@gmail.com
 
